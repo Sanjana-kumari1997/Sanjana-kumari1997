@@ -6,11 +6,11 @@
 <img src="0_dI-o8H3i0w66SpK7.gif" alt="analyst" height = "auto" width = "400" align="right">
 
 
-- 🔄 From connecting businesses to uncovering insights, I’m transitioning from a Business Development Associate to a Business Analyst, fueled by a passion for solving complex problems and driving smarter decisions.
-- 📚 Learnbay’s Business Analytics certification, powered by IBM, equipped me with the tools to transform data into impactful strategies—Excel, R, Tableau, Power BI, and SQL are my playgrounds.
+- 🔄 From hands-on data exploration to uncovering critical insights, I’m evolving from a Data Analytics intern to a Business Analyst, driven by a passion for tackling complex problems and making smarter decisions.
+- 📚 Through Learnbay’s Business Analytics certification (powered by IBM), I transform raw data into actionable insights
 
-- 📊 Constantly evolving, I’m sharpening my technical and interpersonal skills to thrive in analytical roles and deliver real value.
+- 📊 Constantly refining my technical and soft skills to excel in roles that deliver tangible business value.
 
-- 💼 Actively seeking opportunities to blend curiosity, creativity, and data to drive meaningful business outcomes.
+- 💼 Actively seeking opportunities to merge curiosity, creativity, and data for high-impact results
 
-- ✨ Fun fact: I’m learning Spanish—because growth is limitless, and so is my curiosity!
+- ✨ Fun fact: I’m learning Spanish—because exploration goes beyond the professional realm!
