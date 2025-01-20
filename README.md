@@ -3,7 +3,6 @@
 <h3 align="center"><i> From building relationships to building insights—my journey into Business Analytics </i> </h3>
 <br> 
 <h2 align="center"> 🌟 About me </h2>
-<br>
 <img src="0_dI-o8H3i0w66SpK7.gif" alt="analyst" height = "auto" width = "400" align="right">
 
 - 🔄 From hands-on data exploration to uncovering critical insights, I’m evolving from a Data Analytics intern to a Business Analyst, driven by a passion for tackling complex problems and making smarter decisions.
