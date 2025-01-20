@@ -1,4 +1,4 @@
-<img src="data-analytics.png" alt="banner" height = "250px" width = "100%">
+<img src="data-analytics.png" alt="banner" height = "auto" width = "100%">
 <h1 align="center"> Hi there 👋, I am Sanjana Kumari </h1>
 <h3 align="center"><i> From building relationships to building insights—my journey into Business Analytics </i> </h3>
 <br> 
